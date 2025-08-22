@@ -45,8 +45,7 @@ Mapped Gestures → Key Presses – PyAutoGUI sends key events (↑ ↓ → ←)
 Subway Surfers Responds – Character jumps, rolls, or changes lane instantly.
 
 🛠️ Installation & Setup
-git clone https://github.com/ankitparwatkar/Gesture-Controlled-Gaming-Setup.git
-cd gesture-controlled-subway-surfers
+https://github.com/PrajithYanapu/Gesture-Controlled-Subway-Surfers-Game.git
 pip install -r requirements.txt
 
 
@@ -67,5 +66,6 @@ Laggy Gestures? → Increase frame_skip in code or close background apps.
 Turns your webcam into a game controller.
 
 A perfect mashup of AI, automation, and fun gaming.
+
 
 Demonstrates real-time computer vision + practical automation.
