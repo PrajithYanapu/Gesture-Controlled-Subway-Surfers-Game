@@ -69,5 +69,3 @@ Turns your webcam into a game controller.
 A perfect mashup of AI, automation, and fun gaming.
 
 Demonstrates real-time computer vision + practical automation.
-
-👉 This description is now engaging, professional, and unique, while still keeping it resume + GitHub friendly.
